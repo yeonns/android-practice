@@ -1,5 +1,4 @@
-package com.example.android_practice.data
-import com.example.android_practice.data.Movie
+package com.example.android_practice.data.model.movie
 import com.google.gson.annotations.SerializedName
 
 data class MovieList(
